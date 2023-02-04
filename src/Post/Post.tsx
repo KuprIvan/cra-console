@@ -8,6 +8,9 @@ const Post = () => {
          <div>Dev branch commit 3</div>
          <div>Dev branch commit 4</div>
          <div>Dev branch commit 5</div>
+         <div>New commit is here </div>
+         <div>New commit is here </div>
+         <div>New commit is here </div>
         </div>
     );
 };
