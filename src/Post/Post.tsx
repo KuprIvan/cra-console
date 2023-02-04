@@ -20,6 +20,8 @@ const Post = () => {
             <div>New commit is here</div>
             <div>New commit is here</div>
             <div>New commit is here</div>
+                <p>11</p>
+                <p>22</p>
         </div>
     );
 };
