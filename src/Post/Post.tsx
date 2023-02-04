@@ -11,6 +11,7 @@ const Post = () => {
             <div>New commit is here</div>
             <div>New commit is here</div>
             <div>New commit is here</div>
+            <div>New commit is here</div>
         </div>
     );
 };
