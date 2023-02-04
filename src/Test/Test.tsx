@@ -6,8 +6,6 @@ const Test = () => {
            <h2>Tes</h2>
            <h2>Tes</h2>
            <h2>Tes</h2>
-           <h2>Tes</h2>
-           <h2>Tes</h2>
         </div>
     );
 };
